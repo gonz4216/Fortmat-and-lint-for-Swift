@@ -40,15 +40,15 @@ Copy the following files from the downloaded repository to your Swift project's 
 - **`README.md`**
  
  ## 3. Add Build Phase in Xcode
-    1. Open your Xcode project.
+  1. Open your Xcode project.
     
-    2. In the Xcode project navigator, select your project.
+  2. In the Xcode project navigator, select your project.
     
-    3. Go to the project's target (the one you want to lint) and select "Build Phases."
+  3. Go to the project's target (the one you want to lint) and select "Build Phases."
     
-    4. Click the "+" button and choose "New Run Script Phase."
+  4. Click the "+" button and choose "New Run Script Phase."
     
-    5. In the newly created "Run Script" phase, add the following script:
+  5. In the newly created "Run Script" phase, add the following script:
 
 
 
